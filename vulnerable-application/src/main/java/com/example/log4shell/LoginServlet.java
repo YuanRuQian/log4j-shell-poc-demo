@@ -32,7 +32,7 @@ public class LoginServlet extends HttpServlet {
             logger.error(userAgent); // log browser user agent!
             // logger.error(userName);  // log username instead
 
-            out.println("<code> Ur user agent has been logged loser >:P </code>");
+            out.println("<code> Ur user agent has been logged ... </code>");
         }
     }
 
